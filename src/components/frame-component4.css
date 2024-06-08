@@ -1,0 +1,366 @@
+.group-icon4 {
+  align-self: stretch;
+  height: 33.8px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.group-icon5 {
+  height: 7.2px;
+  width: 201.1px;
+  position: relative;
+}
+.group-container {
+  flex-direction: row;
+  padding: 0 22px 0 16px;
+}
+.group-container,
+.logo-frame,
+.logo2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.logo2 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  gap: 7px;
+  z-index: 1;
+}
+.logo-frame {
+  width: 239px;
+  flex-direction: row;
+  padding: 0 0 58px;
+  box-sizing: border-box;
+}
+.newsletter-signup3 {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.envelope-1-icon2 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.envelope-1-container,
+.input-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.input-item {
+  width: calc(100% - 36px);
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 26px;
+  flex: 1;
+  padding: 0 0 2px;
+  box-sizing: border-box;
+  font-family: Montserrat;
+  font-size: 14px;
+  color: #a9a7b0;
+  min-width: 300px;
+  max-width: 100%;
+}
+.arrow-right-1-icon2 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.input2,
+.newsletter-signup-parent {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.input2 {
+  border-bottom: 1px solid #2a2e36;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 5px 0 15px;
+  gap: 15px;
+  z-index: 1;
+}
+.newsletter-signup-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.facebook-svgrepo-com-icon2,
+.instagram-svgrepo-com-1-icon2,
+.linkedin-svgrepo-com-1-icon2,
+.twitter-x-1-icon2,
+.youtube-168-svgrepo-com-1-icon2 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 18px;
+  z-index: 1;
+}
+.facebook-svgrepo-com-parent,
+.frame-parent21 {
+  width: 230px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-parent21 {
+  width: 581px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 40px;
+  min-width: 581px;
+  max-width: 100%;
+}
+.about3 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 79px;
+  z-index: 1;
+}
+.accreditation2,
+.articles2,
+.career2,
+.contact2,
+.meet-our-team2,
+.press-release2,
+.testimonials2,
+.trademarks2,
+.why-ai-certs6 {
+  display: block;
+}
+.why-ai-certs-container2 {
+  margin: 0;
+  position: relative;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  color: #a9a7b0;
+  z-index: 1;
+}
+.about-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.certifications4 {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.ai-professional2,
+.ai-technical2,
+.blockchain-professional2,
+.blockchain-technical2,
+.view-all2 {
+  display: block;
+}
+.ai-professional-ai-container2 {
+  margin: 0;
+  position: relative;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  color: #a9a7b0;
+  z-index: 1;
+}
+.certifications-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+  min-width: 161px;
+}
+.authorized3 {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.authorized-partners2 {
+  margin-block-start: 0;
+  margin-block-end: 1px;
+}
+.authorized-trainers2 {
+  margin: 0;
+}
+.authorized-partners-authorized-container2 {
+  position: relative;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  color: #a9a7b0;
+  z-index: 1;
+}
+.authorized-group,
+.frame-parent23 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.authorized-group {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  min-width: 185px;
+}
+.frame-parent23 {
+  flex: 1;
+  gap: 75px;
+  min-width: 330px;
+}
+.frame-parent20,
+.frame-parent22,
+.frame-parent23 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-parent22 {
+  width: 829px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 180px;
+  min-width: 829px;
+  text-align: left;
+}
+.frame-parent20 {
+  width: 1620px;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+}
+.copyright-ai2,
+.line-icon {
+  position: relative;
+  max-width: 100%;
+  z-index: 1;
+}
+.line-icon {
+  align-self: stretch;
+  height: 4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.copyright-ai2 {
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+}
+.line-parent {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 38px;
+  text-align: left;
+  font-size: 18px;
+  color: #a9a7b0;
+}
+.frame-footer,
+.frame-parent19,
+.line-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent19 {
+  width: 1650px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 94px;
+}
+.frame-footer {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 0 52px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1525px) {
+  .frame-parent21,
+  .frame-parent22 {
+    flex: 1;
+  }
+  .frame-parent20 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .frame-parent22 {
+    min-width: 100%;
+  }
+  .frame-footer {
+    padding-left: 26px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .input2 {
+    flex-wrap: wrap;
+  }
+  .frame-parent21 {
+    gap: 20px;
+    min-width: 100%;
+  }
+  .frame-parent23 {
+    gap: 37px;
+  }
+  .frame-parent22 {
+    flex-wrap: wrap;
+    gap: 90px;
+  }
+  .line-parent {
+    gap: 19px;
+  }
+  .frame-parent19 {
+    gap: 47px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about3,
+  .authorized3,
+  .certifications4,
+  .newsletter-signup3 {
+    font-size: 19px;
+  }
+  .authorized-group {
+    flex: 1;
+  }
+  .frame-parent23 {
+    flex-wrap: wrap;
+    gap: 19px;
+  }
+  .frame-parent22 {
+    gap: 45px;
+  }
+  .frame-parent19 {
+    gap: 23px;
+  }
+}
